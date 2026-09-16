@@ -1,0 +1,6 @@
+*** CROSSFIRE TURKCE YAMA NOTLARI V1.9.0.3
+
+- Yeni Güncellemedeki İngilizce Yerlerin Bazıları Türkçeye Çevrildi.
+- Çevrilmeyen Yerler Uygulama İçinden Resimlerle Gösterildi.
+- Hata Alıyorsanız ve Çevrilmeyen Yerler Varsa (Resimlerle Gösterilenler Dışında) İletişime Geçin.
+- Uygulamayı Her Güncelleme Geldiğince Güncelliyoruz, Lütfen Sizde Güncelleyin!
